@@ -26,6 +26,7 @@ int main() {
         printf("%c ", randomChar);  //print inserted character
     }
 
+
     printf("\n\nSorted order: ");   //print sorted order
     inorderTraversal(root); //inorder traversal to print sorted characters
     printf("\n");
