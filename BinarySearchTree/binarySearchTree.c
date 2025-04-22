@@ -30,6 +30,7 @@ Node* insert(Node* root, char data) {   // insert a node into the binary search 
 }
 
 
+
 Node* search(Node* root, char data) {   // function to search for a node in thebinary search tree
     if (root == NULL || root->data == data) {   //if found or NULL, return root
         return root;
