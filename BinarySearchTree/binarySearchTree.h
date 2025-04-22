@@ -5,6 +5,7 @@
 #define BINARY_SEARCH_TREE_H
 
 
+
 typedef struct Node {   //definition of node struct
 
     char data;  //char data stored in node
